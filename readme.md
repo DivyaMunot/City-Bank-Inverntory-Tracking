@@ -1,4 +1,4 @@
-An end-to-end data-intensive application that tracks the inventory of bikes and available docks at a given station 'Broadway & E 14 St' with the Citibike Bike Sharing system in NYC.
+An end-to-end data-intensive application that tracks the inventory of bikes and available docks at a given station 'Broadway & E 14 St' with the Citibike Sharing system in NYC.
 
 1. Extract Transform Load (ETL):\
 Followed the medallion format of data development to refine the raw bike and weather information into what the model and application will require at the bronze, silver, and gold level of data quality/refinement.\
